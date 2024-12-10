@@ -1,6 +1,8 @@
 import json
 import requests
 
+#file that scrapes all the comments to a post
+
 #receive url
 url = input("Insert URL w/ JSON format: ")
 
